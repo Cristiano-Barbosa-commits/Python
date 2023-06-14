@@ -1,3 +1,3 @@
-<h1> Sistema de cadastro de Jogos. </h1>
+<h1> Sistema de Validação de entrada de usuário. </h1>
 
 > Status de projeto: Em desenvolvimento
